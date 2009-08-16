@@ -1,0 +1,10 @@
+F:\MyCSharp\CrazyWorld\CrazyWorld.Core\bin\Debug\CrazyWorld.Core.dll
+F:\MyCSharp\CrazyWorld\CrazyWorld.Core\bin\Debug\CrazyWorld.Core.pdb
+F:\MyCSharp\CrazyWorld\CrazyWorld.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\MyCSharp\CrazyWorld\CrazyWorld.Core\obj\Debug\CrazyWorld.Core.dll
+F:\MyCSharp\CrazyWorld\CrazyWorld.Core\obj\Debug\CrazyWorld.Core.pdb
+E:\MyProject\CrazyWorld\CrazyWorld.Core\bin\Debug\CrazyWorld.Core.dll
+E:\MyProject\CrazyWorld\CrazyWorld.Core\bin\Debug\CrazyWorld.Core.pdb
+E:\MyProject\CrazyWorld\CrazyWorld.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\CrazyWorld\CrazyWorld.Core\obj\Debug\CrazyWorld.Core.dll
+E:\MyProject\CrazyWorld\CrazyWorld.Core\obj\Debug\CrazyWorld.Core.pdb

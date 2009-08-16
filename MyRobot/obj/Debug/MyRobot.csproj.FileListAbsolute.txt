@@ -1,0 +1,14 @@
+F:\MyCSharp\CrazyWorld\MyRobot\bin\Debug\MyRobot.dll
+F:\MyCSharp\CrazyWorld\MyRobot\bin\Debug\MyRobot.pdb
+F:\MyCSharp\CrazyWorld\MyRobot\bin\Debug\CrazyWorld.Core.dll
+F:\MyCSharp\CrazyWorld\MyRobot\bin\Debug\CrazyWorld.Core.pdb
+F:\MyCSharp\CrazyWorld\MyRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\MyCSharp\CrazyWorld\MyRobot\obj\Debug\MyRobot.dll
+F:\MyCSharp\CrazyWorld\MyRobot\obj\Debug\MyRobot.pdb
+E:\MyProject\CrazyWorld\MyRobot\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\CrazyWorld\MyRobot\obj\Debug\MyRobot.dll
+E:\MyProject\CrazyWorld\MyRobot\obj\Debug\MyRobot.pdb
+E:\MyProject\CrazyWorld\MyRobot\bin\Debug\MyRobot.dll
+E:\MyProject\CrazyWorld\MyRobot\bin\Debug\MyRobot.pdb
+E:\MyProject\CrazyWorld\MyRobot\bin\Debug\CrazyWorld.Core.dll
+E:\MyProject\CrazyWorld\MyRobot\bin\Debug\CrazyWorld.Core.pdb
